@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Simple List of Places I have lived
+- Illinois
+- Ohio
+- Maine
+- Alaska
